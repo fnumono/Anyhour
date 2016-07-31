@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "229aa17d21312a108bf9acabed40d421"
+build_time: [523243609, 175692000]
+inputs:
+  "/Users/pramonowang/Desktop/anyhour/anyhour/MyAnnotation.swift": [523194175, 0]
+  "/Users/pramonowang/Desktop/anyhour/ShowMapViewController.swift": [523202903, 0]
+  "/Users/pramonowang/Desktop/anyhour/anyhour/SearchMapViewController.swift": [523195210, 0]
+  "/Users/pramonowang/Desktop/anyhour/anyhour/AnyHourCustomCell.swift": [523237433, 0]
+  "/Users/pramonowang/Desktop/anyhour/anyhour/Restaurant.swift": [523199784, 0]
+  "/Users/pramonowang/Desktop/anyhour/anyhour/ViewController.swift": [523186622, 0]
+  "/Users/pramonowang/Desktop/anyhour/anyhour/AnyHourTableViewController.swift": [523243491, 0]
+  "/Users/pramonowang/Desktop/anyhour/anyhour/AppDelegate.swift": [523221099, 0]

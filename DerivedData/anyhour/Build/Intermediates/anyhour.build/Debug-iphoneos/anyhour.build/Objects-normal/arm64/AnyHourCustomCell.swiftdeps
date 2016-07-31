@@ -1,0 +1,215 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AnyHourCustomCell"
+provides-nominal:
+- "C7anyhour17AnyHourCustomCell"
+provides-member:
+- ["C7anyhour17AnyHourCustomCell", ""]
+provides-dynamic-lookup:
+- "address"
+- "name"
+- "photo"
+- "review"
+- "discount"
+depends-top-level:
+- "AnyHourCustomCell"
+- "UILabel"
+- "UITableViewCell"
+- "UIImageView"
+depends-member:
+- ["C7anyhour17AnyHourCustomCell", "UIImageView"]
+- ["C7anyhour17AnyHourCustomCell", "UILabel"]
+- ["C7anyhour17AnyHourCustomCell", "address"]
+- ["C7anyhour17AnyHourCustomCell", "deinit"]
+- ["C7anyhour17AnyHourCustomCell", "discount"]
+- ["C7anyhour17AnyHourCustomCell", "init"]
+- ["C7anyhour17AnyHourCustomCell", "name"]
+- ["C7anyhour17AnyHourCustomCell", "photo"]
+- ["C7anyhour17AnyHourCustomCell", "review"]
+- ["Ps9AnyObject", "address"]
+- ["Ps9AnyObject", "discount"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", "photo"]
+- ["Ps9AnyObject", "review"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "address"]
+- ["Ps11CVarArgType", "discount"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "name"]
+- ["Ps11CVarArgType", "photo"]
+- ["Ps11CVarArgType", "review"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "address"]
+- ["Ps28CustomDebugStringConvertible", "discount"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "name"]
+- ["Ps28CustomDebugStringConvertible", "photo"]
+- ["Ps28CustomDebugStringConvertible", "review"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "address"]
+- ["Ps23CustomStringConvertible", "discount"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "name"]
+- ["Ps23CustomStringConvertible", "photo"]
+- ["Ps23CustomStringConvertible", "review"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "address"]
+- ["Ps9Equatable", "discount"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "name"]
+- ["Ps9Equatable", "photo"]
+- ["Ps9Equatable", "review"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "address"]
+- ["Ps8Hashable", "discount"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "name"]
+- ["Ps8Hashable", "photo"]
+- ["Ps8Hashable", "review"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "address"]
+- ["PSo8NSCoding", "discount"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "name"]
+- ["PSo8NSCoding", "photo"]
+- ["PSo8NSCoding", "review"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "address"]
+- ["CSo8NSObject", "discount"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "photo"]
+- ["CSo8NSObject", "review"]
+- ["PSo16NSObjectProtocol", "address"]
+- ["PSo16NSObjectProtocol", "discount"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "photo"]
+- ["PSo16NSObjectProtocol", "review"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo29UIAccessibilityIdentification", "address"]
+- ["PSo29UIAccessibilityIdentification", "discount"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "name"]
+- ["PSo29UIAccessibilityIdentification", "photo"]
+- ["PSo29UIAccessibilityIdentification", "review"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "address"]
+- ["PSo12UIAppearance", "discount"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "name"]
+- ["PSo12UIAppearance", "photo"]
+- ["PSo12UIAppearance", "review"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "address"]
+- ["PSo21UIAppearanceContainer", "discount"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "name"]
+- ["PSo21UIAppearanceContainer", "photo"]
+- ["PSo21UIAppearanceContainer", "review"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "address"]
+- ["PSo17UICoordinateSpace", "discount"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "name"]
+- ["PSo17UICoordinateSpace", "photo"]
+- ["PSo17UICoordinateSpace", "review"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "address"]
+- ["PSo13UIDynamicItem", "discount"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "name"]
+- ["PSo13UIDynamicItem", "photo"]
+- ["PSo13UIDynamicItem", "review"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "address"]
+- ["PSo18UIFocusEnvironment", "discount"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "name"]
+- ["PSo18UIFocusEnvironment", "photo"]
+- ["PSo18UIFocusEnvironment", "review"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "address"]
+- ["PSo27UIGestureRecognizerDelegate", "discount"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "name"]
+- ["PSo27UIGestureRecognizerDelegate", "photo"]
+- ["PSo27UIGestureRecognizerDelegate", "review"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "address"]
+- ["CSo11UIResponder", "discount"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "name"]
+- ["CSo11UIResponder", "photo"]
+- ["CSo11UIResponder", "review"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "address"]
+- ["CSo15UITableViewCell", "discount"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "name"]
+- ["CSo15UITableViewCell", "photo"]
+- ["CSo15UITableViewCell", "review"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "address"]
+- ["PSo18UITraitEnvironment", "discount"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "name"]
+- ["PSo18UITraitEnvironment", "photo"]
+- ["PSo18UITraitEnvironment", "review"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "address"]
+- ["CSo6UIView", "discount"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "name"]
+- ["CSo6UIView", "photo"]
+- ["CSo6UIView", "review"]
+- ["Ps12_Reflectable", "address"]
+- ["Ps12_Reflectable", "discount"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "name"]
+- ["Ps12_Reflectable", "photo"]
+- ["Ps12_Reflectable", "review"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "C7anyhour17AnyHourCustomCell"
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+interface-hash: "4d2b6e15a6a5c79287074b046580e9bb"
